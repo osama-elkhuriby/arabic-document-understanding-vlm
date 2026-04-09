@@ -49,6 +49,10 @@ Python | PyTorch | Vision-Language Models (VLMs) | LlamaFactory | LoRA | vLLM | 
 - Deploy as an API for real-world usage  
 
 
+
+---
+
+
 ## Recommended Setup
 
 ### Download Miniconda from https://www.anaconda.com/download
